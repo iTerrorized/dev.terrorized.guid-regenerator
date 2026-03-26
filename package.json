@@ -1,0 +1,19 @@
+{
+  "name": "dev.terrorized.guid-regenerator",
+  "displayName": "GUID Regenerator",
+  "version": "1.0.5",
+  "description": "A Unity editor tool to regenerate GUIDs for your assets",
+  "url": "https://github.com/iTerrorized/dev.terrorized.guid-regenerator",
+  "unity": "2022.3",
+  "type": "tool",
+  "keywords": [
+    "Terrorized",
+    "GUID",
+    "Regenerator"
+  ],
+  "author": {
+    "name": "Terrorized",
+    "email": "xterrorized@outlook.com",
+    "url": "https://terrorized.dev"
+  }
+}
